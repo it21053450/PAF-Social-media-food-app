@@ -1,0 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.HomePage{
+    background-color: rgb(139, 227, 249);
+}
